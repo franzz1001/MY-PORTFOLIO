@@ -45,19 +45,7 @@ footer a {
 footer a:hover {
     color: #dfdfdf;
 
-}
 
-.custom-btn {
-    background-color: #FF5733;
-    color: #FFFFFF;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-.custom-btn:hover {
-    background-color: #D45027;
-    color: #FFFFFF;
 }
 @media (max-width: 767.98px) {
     .color-overlay {
