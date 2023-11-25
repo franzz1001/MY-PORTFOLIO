@@ -5,7 +5,7 @@ html, body {
 body{
     display: flex;
     flex-direction: column;
-    background-color: rgb(79, 98, 142)
+    background-color: rgb(182, 203, 252)
 }
 
 main {
@@ -33,7 +33,7 @@ header {
 }
 
 footer {
-    background-color: #061539;
+    background-color: #25314B;;
     
 }
 
